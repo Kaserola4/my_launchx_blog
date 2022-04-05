@@ -7,5 +7,8 @@ Hola ✌️  soy el explorer **Daniel** y este es mi blog personal donde compart
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Espero poder ser capaz de hacer todo lo que me proponga este curso, y con ello llevarme todo lo que aprenda
+a un ámbito laboral.
+
 ***undefined*** **can be defined**
 🚀
