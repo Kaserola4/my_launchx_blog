@@ -16,5 +16,15 @@
       <description>Pienso que un buen desarrollador tiene consigo unos buenos valores y ganas de hacer las cosas. Considero que un desarrollador jamás será igual a otro. Esto es un mundo lleno de mentes pensantes, no robots.</description>
     </item>
     
+    <item>
+      <title>Recuento de aprendizaje en LaunchX</title>
+      <link>https://kaserola4.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaserola4.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hasta el momento hemos visto:
+ python Lógica de programación Jupyter Notebooks Command line Git Github HTML CSS JS  </description>
+    </item>
+    
   </channel>
 </rss>
